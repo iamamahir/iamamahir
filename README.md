@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning dsa with python
 - 💞️ I’m looking to collaborate on partners who are also in my stage
-- 📫 How to reach me 
+- 📫 How to reach me iammahir990@gmail.com
 
 <!---
 
